@@ -5,7 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Lean/MM_Run_Fwd.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"E:/Developments/Unreal Projects/RPG_GAME_GIT/RPG_GAME/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset"
 			]
 		}
 	]
